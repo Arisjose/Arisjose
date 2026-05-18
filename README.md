@@ -11,28 +11,15 @@ A passionate Data Engineer and Data Scientist focused on Big Data ecosystems and
 - 💬 Pregúntame sobre ingeniería de datos, modelado estadístico o Big Data.
 
 ### 🛠️ Tecnologías y Herramientas (Data Science & Big Data)
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="R" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="Spark" />
-  <img src="https://shields.io" alt="Hadoop" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Airflow" />
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Power BI" />
-  <img src="https://shields.io" alt="Apache Cassandra" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+
+![Python](https://shields.io) ![R](https://shields.io) ![SQL](https://shields.io) ![Spark](https://shields.io) ![Hadoop](https://shields.io) ![Cassandra](https://shields.io) ![MongoDB](https://shields.io) ![Airflow](https://shields.io) ![AWS](https://shields.io) ![Docker](https://shields.io) ![Power BI](https://shields.io) ![Git](https://shields.io)
 
 ### 📈 Mis Estadísticas de GitHub
-<p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" height="150" />
-</p>
+
+![Estadísticas de GitHub](https://vercel.app)
+![Lenguajes más usados](https://vercel.app)
 
 ---
 
 ### 📬 Conéctate conmigo
-[<img src="https://shields.io" alt="LinkedIn" />](https://www.linkedin.com/in/jose-edjang-aseko-asangono-839904a5/)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
