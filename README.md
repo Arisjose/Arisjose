@@ -22,7 +22,7 @@ A passionate Data Engineer and Data Scientist focused on Big Data ecosystems and
   <img src="https://shields.io" alt="AWS" />
   <img src="https://shields.io" alt="Docker" />
   <img src="https://shields.io" alt="Power BI" />
-  <img src="https://shields.io" alt="Tableau" />
+  <img src="https://shields.io" alt="Apache Cassandra" />
   <img src="https://shields.io" alt="Git" />
 </p>
 
