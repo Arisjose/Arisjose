@@ -1,4 +1,4 @@
-# Hola ArisJose 👋
+# Hola Arisjose 👋
 
 Bridging the gap between raw data and business value: 
 Designing scalable Big Data architectures, 
@@ -12,12 +12,11 @@ building predictive models, and delivering actionable insights.
 - 🌱 Profundizando en entornos distribuidos, analítica avanzada, flujos ETL/ELT y modelos de Machine Learning.
 - 💬 Pregúntame sobre ingeniería de datos, modelado estadístico o análisis de negocio.
 
-### 🛠️ Tecnologías y Herramientas (Data Ecosystem)
+### 🛠️Aprendiendo Tecnologías y Herramientas
 
 - **Lenguajes:** Python | R | SQL
-- **Frameworks Big Data:** Apache Spark | Apache Hadoop 
 - **Bases de Datos NoSQL:** Apache Cassandra | MongoDB
-- **Herramientas & Cloud:** Apache Airflow | Amazon AWS | Docker | Power BI | Git
+- **Herramientas & Cloud:** Docker 
 
 ---
 
