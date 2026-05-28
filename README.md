@@ -16,7 +16,8 @@ building predictive models, and delivering actionable insights.
 
 - **Lenguajes:** Python | R | SQL
 - **Bases de Datos NoSQL:** Apache Cassandra | MongoDB
-- **Herramientas & Cloud:** Docker 
+- Big Data & Procesamiento: MapReduce.
+- **Herramientas & Cloud:** Docker, Apache Hadoop.
 
 ---
 
